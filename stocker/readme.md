@@ -1,8 +1,11 @@
 # Stocker: A Stock Analysis and Prediction Toolkit using Additive Models 
+## An alternative by Antoine to integrate all sotcks up to today
 
 Stocker can be run from an interative Python 3.6 session. I recommend 
 installing the [Anaconda Python 3.6 distribution](https://www.anaconda.com/download/)
 and using a Jupyter Notebook. 
+ 
+The reason I forked the project from Will Koehrsen's is that his stock data ends really early and I want the stock up to today.
  
 Stocker is a work in progress. Let me know of any issues and feel 
 free to make your own contributions! 
